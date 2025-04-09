@@ -4,6 +4,11 @@
 - 程序使用**jsmooth**进行打包
 - 感谢打包教程，尤其是关于jre的部分
 > [使用jsmooth将jar文件转换成可在无java的环境中运行的exe文件](https://blog.csdn.net/m0_37154839/article/details/89396939?spm=1001.2014.3001.5506)
+### 依赖说明
+
+请确保使用以下环境，并将**jre与exe文件置于同一文件夹下（两者为兄弟关系）**：
+
+- **Framework**: v5.0.3，可能包含在 JRE 8、JDK 8 和 OpenJDK 8 中。
 
 ## 目录
 
