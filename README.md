@@ -259,7 +259,7 @@ Process模块定义了模拟进程。GUI模块的内部流程图如下图所示�
 实现了模拟进程调度算法，对课程内容有了更深刻的理解。
 
 
-## 参考文献
+## 5. 参考文献
 
 1. [Jimoshalengzhou. (2024). Java抢占式和非抢占式 抢占式sjf算法. 51CTO博客.](https：//blog.51cto.com/u_39037/10051829)
 2. [CSDN. (2024). Java开发的进程调度模拟器完整指南.](https://blog.csdn.net/weixin_33622085/article/details/143471700)
